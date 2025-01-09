@@ -1,5 +1,5 @@
 {
-  "name": "dropdown",
+  "name": "dropdown-toggle",
   "version": "1.0.0",
   "description": "setDropdown is a utility function to easily manage dropdown visibility with customizable event listeners (click or hover) and support for custom hidden class names.",
   "main": "Dropdown.js",
